@@ -343,11 +343,11 @@ Disassembly of section .text:
 100002f0:	d10c      	bne.n	1000030c <main+0x24>
 100002f2:	2001      	movs	r0, #1
 100002f4:	f7ff fff2 	bl	100002dc <pico_set_led>
-100002f8:	20fa      	movs	r0, #250	@ 0xfa
+100002f8:	2064      	movs	r0, #100	@ 0x64
 100002fa:	f001 f8a9 	bl	10001450 <sleep_ms>
 100002fe:	2000      	movs	r0, #0
 10000300:	f7ff ffec 	bl	100002dc <pico_set_led>
-10000304:	20fa      	movs	r0, #250	@ 0xfa
+10000304:	2064      	movs	r0, #100	@ 0x64
 10000306:	f001 f8a3 	bl	10001450 <sleep_ms>
 1000030a:	e7f2      	b.n	100002f2 <main+0xa>
 1000030c:	4b02      	ldr	r3, [pc, #8]	@ (10000318 <main+0x30>)
