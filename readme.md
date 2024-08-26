@@ -1,4 +1,4 @@
 lab0
 
 
-![example workflow](https://github.com/github/docs/actions/workflows/main.yml/badge.svg)
+![example workflow](https://github.com/AdrianSucahyo/Lab0/actions/workflows/main.yml/badge.svg)
