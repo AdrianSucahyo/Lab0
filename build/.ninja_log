@@ -83,3 +83,5 @@
 545	588	1724694572274414293	CMakeFiles/blink.dir/home/stephen/.pico-sdk/sdk/2.0.0/src/rp2_common/pico_double/double_v1_rom_shim_rp2040.S.obj	20ebc5a70dcc97bd
 1015	1448	1724694572744408894	CMakeFiles/blink.dir/home/stephen/.pico-sdk/sdk/2.0.0/lib/cyw43-driver/src/cyw43_ctrl.c.obj	42f120f9a099e141
 557	593	1724694572286414155	CMakeFiles/blink.dir/home/stephen/.pico-sdk/sdk/2.0.0/src/rp2_common/pico_int64_ops/pico_int64_ops_aeabi.S.obj	2d8a26ce9ea8312
+5	116	1724706805720219135	CMakeFiles/blink.dir/blink.c.obj	23667c0921d1e882
+116	260	1724706805832195026	blink.elf	3ab87bf4b04e9518
