@@ -1,0 +1,7 @@
+/home/stephen/Desktop/pico/blink2/build/pioasm/CMakeFiles/pioasm.dir
+/home/stephen/Desktop/pico/blink2/build/pioasm/CMakeFiles/edit_cache.dir
+/home/stephen/Desktop/pico/blink2/build/pioasm/CMakeFiles/rebuild_cache.dir
+/home/stephen/Desktop/pico/blink2/build/pioasm/CMakeFiles/list_install_components.dir
+/home/stephen/Desktop/pico/blink2/build/pioasm/CMakeFiles/install.dir
+/home/stephen/Desktop/pico/blink2/build/pioasm/CMakeFiles/install/local.dir
+/home/stephen/Desktop/pico/blink2/build/pioasm/CMakeFiles/install/strip.dir
