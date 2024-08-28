@@ -21,11 +21,11 @@ jobs:
           rm -rf "${{ github.workspace }}"
           mkdir -p "${{ github.workspace }}"
 
-      - name: Checkout pico-sdk/develop
+      - name: Checkout pico-sdk/master
         uses: actions/checkout@v2
         with:
           repository: raspberrypi/pico-sdk
-          ref: develop
+          ref: master
           path: ${{github.workspace}}/pico_sdk
           submodules: true
 
