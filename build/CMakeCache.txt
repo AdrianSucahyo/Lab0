@@ -318,6 +318,9 @@ PICO_STDIO_UART:BOOL=ON
 //Globally enable stdio USB
 PICO_STDIO_USB:BOOL=OFF
 
+//Directory where pioasm has been installed
+PIOASM_INSTALL_DIR:PATH=/home/jtag/Pico-Projects/blink/build/pioasm-install
+
 //No help, variable specified on the command line.
 Python3_EXECUTABLE:UNINITIALIZED=/usr/bin/python3
 
@@ -338,6 +341,12 @@ pico_sdk_IS_TOP_LEVEL:STATIC=OFF
 
 //Value Computed by CMake
 pico_sdk_SOURCE_DIR:STATIC=/home/jtag/.pico-sdk/sdk/2.0.0
+
+//The directory containing a CMake configuration file for picotool.
+picotool_DIR:PATH=/home/jtag/.pico-sdk/picotool/2.0.0/picotool
+
+//The directory containing a CMake configuration file for pioasm.
+pioasm_DIR:PATH=pioasm_DIR-NOTFOUND
 
 
 ########################
